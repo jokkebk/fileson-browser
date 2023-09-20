@@ -28,5 +28,5 @@ npm run build
 Thanks to
 [vite-plugin-singlefile](https://github.com/richardtallent/vite-plugin-singlefile),
 the build output is a single HTML file with all the JavaScript and CSS inlined.
-You can just double-click the `build/index.html` file to open it in your
+You can just double-click the `dist/index.html` file to open it in your
 browser.
